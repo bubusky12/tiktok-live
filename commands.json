@@ -1,0 +1,28 @@
+{
+    "Rose": {
+      "commands": [
+        "broadcast GG CUY {donator} telah mengirim {gift} x{count}!",
+        "give exelicks_ minecraft:diamond 10"
+      ]
+    },
+    "TikTok": {
+      "commands": [
+        "say WOW! {donator} mengirim {gift} x{count}!",
+        "give {usernamerandom} minecraft:netherite_sword 1",
+        "tp {usernamerandom} 100 64 100"
+      ]
+    },
+    "Kue Ultah": {
+        "commands": [
+          "say ANJING {donator} mengirim {gift} x{count}!",
+          "give {usernamerandom} minecraft:netherite_sword 1",
+          "tp {usernamerandom} 100 64 100"
+        ]
+    },
+    "default": {
+        "commands": [
+          "broadcast Terima kasih {donator} telah mengirim {gift} x{count}!"
+        ]
+      }
+  }
+  
